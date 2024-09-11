@@ -1,5 +1,19 @@
 # 💫 About Me:
-# Hi there, I'm Tarakeswaran! 👋<br><br>I am an aspiring AI/ML engineer passionate about leveraging technology to solve real-world problems. I enjoy working on projects that involve data analysis, machine learning, and deep learning.<br><br>## 🔭 Current Projects<br>- Developing a temperature prediction model using LSTM.<br>- Building a heart rate monitoring application with Raspberry Pi.<br>- Creating a gesture detection model that receives data from a glove and identifies the corresponding word.<br><br>## 🌱 Learning<br>- Advanced machine learning techniques<br>- Data preprocessing and feature engineering<br>- Exploring sound forecasting and audio data analysis<br><br>## 💬 Ask me about<br>- Machine learning algorithms<br>- Python programming<br>- Data analysis and visualization<br><br>## 📝 Fun Fact<br>I enjoy experimenting with new technologies and sharing my findings with the community!
+Hi there, I'm Tarakeswaran! 👋I am an aspiring AI/ML engineer passionate about leveraging technology to solve real-world problems. I enjoy working on projects that involve data analysis, machine learning, and deep learning.
+## 🔭 Current Projects
+- Developing a temperature prediction model using LSTM.
+- Building a heart rate monitoring application with Raspberry Pi.
+- Creating a gesture detection model that receives data from a glove and identifies the corresponding word.
+## 🌱 Learning
+- Advanced machine learning techniques
+- Data preprocessing and feature engineering
+- Exploring sound forecasting and audio data analysis
+## 💬 Ask me about
+- Machine learning algorithms
+- Python programming
+- Data analysis and visualization
+## 📝 Fun Fact
+I enjoy experimenting with new technologies and sharing my findings with the community!
 
 
 ## 🌐 Socials:
@@ -20,5 +34,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tarakesh-sampath&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
