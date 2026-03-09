@@ -1,20 +1,61 @@
-# 💫 About Me:
-Hi there, I'm Tarakeswaran! 👋I am an aspiring AI/ML engineer passionate about leveraging technology to solve real-world problems. I enjoy working on projects that involve data analysis, machine learning, and deep learning.
-## 🔭 Current Projects
-- Developing a temperature prediction model using LSTM.
-- Building a heart rate monitoring application with Raspberry Pi.
-- Creating a gesture detection model that receives data from a glove and identifies the corresponding word.
-## 🌱 Learning
-- Advanced machine learning techniques
-- Data preprocessing and feature engineering
-- Exploring sound forecasting and audio data analysis
-## 💬 Ask me about
-- Machine learning algorithms
-- Python programming
-- Data analysis and visualization
-## 📝 Fun Fact
-I enjoy experimenting with new technologies and sharing my findings with the community!
+# Hi, I'm Tarakeshwaran 👋
 
+Computer Science Engineering student exploring **Quantum Computing and Quantum Machine Learning (QML)**.
+
+My work focuses on **hybrid quantum–classical machine learning systems**, variational quantum circuits, and efficient inference under **NISQ-era constraints**.
+
+I am particularly interested in building **practical quantum machine learning pipelines** that combine classical deep learning with quantum models.
+
+
+# 🔬 Research Interests
+
+- Quantum Machine Learning (QML)
+- Variational Quantum Algorithms
+- Hybrid Quantum–Classical Systems
+- Quantum Kernel Methods
+- Efficient inference under NISQ constraints
+
+# 🚀 Research Projects
+
+### Interference-Based Quantum Classifier
+- Designed a measurement-free quantum classifier using interference-based state overlap
+- Achieved ~88–90% classification accuracy with constant-time inference
+- Tools: **Python, Qiskit, NumPy, PyTorch**
+
+### Hybrid CNN–Quantum Histopathology Classifier
+- Built a hybrid deep learning + quantum pipeline
+- CNN extracts embeddings which are classified using an interference-based quantum model
+- Tools: **PyTorch, Qiskit-style statevector simulation**
+
+### Quantum Phishing Detection System
+- Implemented hybrid QSVM + Variational Quantum Circuit architecture
+- Feature reduction pipeline for qubit encoding
+- Tools: **Qiskit, PennyLane, Scikit-learn**
+
+# 🛠 Tech Stack
+
+### Programming
+Python • C/C++
+
+### Machine Learning
+PyTorch • TensorFlow • Scikit-learn
+
+### Quantum Computing
+Qiskit • PennyLane  
+Variational Quantum Circuits  
+Quantum Kernels  
+
+### Scientific Computing
+NumPy • Pandas • SciPy
+
+### Systems
+Linux • Git • Docker
+
+# 🌱 Currently Exploring
+
+- Variational Quantum Classifiers
+- Quantum feature encoding strategies
+- Hybrid quantum-classical learning pipelines
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/life_of_tarakesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarakeshwaran-sampath) 
