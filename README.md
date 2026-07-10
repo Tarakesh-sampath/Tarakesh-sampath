@@ -10,7 +10,6 @@ ML engineer working across the full stack of model training — from fine-tuning
 - Block expansion — growing a model by inserting new layers where profiling says they'll help, then continued pretraining (CPT) and instruction tuning (IFT) of the expanded model
 - Scaling this from single-GPU to FSDP-sharded multi-GPU training
 - Serving and benchmarking checkpoints with vLLM (OpenAI-compatible endpoints, Docker Compose)
-- Day-to-day on CUDA/Blackwell hardware: custom FlashAttention builds, memory profiling, keeping 96 GB of VRAM busy
 
 **Quantum machine learning**: [Interference-quantum-classifier](https://github.com/Tarakesh-sampath/Interference-quantum-classifier) — a measurement-free, coherence-preserving hybrid quantum–classical classifier. Interested in quantum feature encoding and variational quantum algorithms.
 
