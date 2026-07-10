@@ -35,7 +35,7 @@ ML engineer working across the full stack of model training — from fine-tuning
 ### Earlier ML work
 - Battery modeling: [state-of-health estimation](https://github.com/Tarakesh-sampath/State-of-Health-Estimation-Battery), [depth-of-discharge estimation](https://github.com/Tarakesh-sampath/DOD-Estimation-Of-Battery), and [black-box battery models](https://github.com/Tarakesh-sampath/Battery-Modeling-Black-Box-Model)
 - [EcoGuardsX](https://github.com/Tarakesh-sampath/EcoGuardsX) — Hack-o-Holic 5.0 hackathon project
-- [Gemicates-Intern-Files](https://github.com/Tarakesh-sampath/Gemicates-Intern-Files) — work from my internship at Gemicates
+- [Doc-ranker](https://github.com/Tarakesh-sampath/Doc-ranker) — document ranking / retrieval experiments
 
 ### Community
 - Built web tools for my college's Youth Red Cross unit: [attendance](https://github.com/Tarakesh-sampath/YRC-Attendence), [homepage](https://github.com/Tarakesh-sampath/yrc-homepage), and [CrossLink](https://github.com/Tarakesh-sampath/CrossLink) for connecting members and events
